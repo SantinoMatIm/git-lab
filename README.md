@@ -8,6 +8,15 @@ First work with a repository
 
 ## Contents
 
+### Code Examples
+
+```
+x = 2 
+y = 3
+print(x + y)
+```
+
+
 ### Images
 
 ![Github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
