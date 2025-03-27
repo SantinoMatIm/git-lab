@@ -15,7 +15,10 @@ x = 2
 y = 3
 print(x + y)
 ```
-
+### Lists
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ### Images
 
