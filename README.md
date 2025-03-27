@@ -24,6 +24,8 @@ print(x + y)
 
 ![Github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 
+![JavaScript logo](https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png)
+
 ## References
 [Github documentation](https://docs.github.com/en)  
 
